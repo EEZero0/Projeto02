@@ -2,6 +2,8 @@ from xml.dom.minidom import ReadOnlySequentialNamedNodeMap
 import requests
 import json
 
+#Teste de consusta de API
+
 url = "https://weather.contrateumdev.com.br/api/weather/city/"
 
 
